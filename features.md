@@ -4,7 +4,7 @@
 1. Ethereum, ethereum classic.
 2. Bitcoin cash.
 3. Litcoin, vertcoin
-4. China, Asia, Japan - NEO, OMise, GO,
+4. China, Asia, Japan - NEO, OMiseGO
 5. Ripple
 6. Monero
 
@@ -27,3 +27,13 @@
 ## Economic indicators
 1. Economic inequalirt, unemployment
 2. Stock market indixes - NASDAQ, DOW, S&P 500
+
+## Crypto indicators
+1. Relative strength index (ratio of higher deal closings to lower deal closings - analogous to momentum of the coin)
+2. Track Total Buy and Sell orders for each coin.
+
+## Social Media & RSS
+1. Overall twitter mentions
+2. twitter mentions - overall positive or negative connotations
+3. News feed RSS - #of stories posted relating to $BTC
+4. News and twitter mentions of "bitcoin fork"
